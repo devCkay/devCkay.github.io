@@ -23,9 +23,9 @@
 
 	```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Hope",
+  "lastName": "Akakpo",
+  "age": 22
 }
 ```
 
